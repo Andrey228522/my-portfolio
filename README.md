@@ -7,10 +7,9 @@ I'm a 16yo WEB Developer passionate about building modern, fast, and responsive 
 - HTML5 / CSS3 / JavaScript
 - Git / GitHub / Firebase
 
-## 📫 Contact
+## 🌐 Projects
 
-   
-- GitHub: https://github.com/Andrey228522/my-portfolio/blob/main/README.md
+- GitHub: 
 
 ---
 
