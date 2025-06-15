@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Andrii Stepanchuk 
+# Hi there 👋 I'm Andrii
 
 I'm a 16yo WEB Developer passionate about building modern, fast, and responsive websites. I enjoy learning new technologies and working on real-world projects to improve my skills.
 
