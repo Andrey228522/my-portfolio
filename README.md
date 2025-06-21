@@ -9,7 +9,7 @@ I'm a 16yo WEB Developer passionate about building modern, fast, and responsive 
 
 ## 🌐 Projects
 
-- GitHub: https://andrey228522.github.io/kebab/
+- GitHub: 
 
 ---
 
